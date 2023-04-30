@@ -1,0 +1,32 @@
+body {
+  margin-top: 75px; }
+
+.navbar {
+  opacity: 0.8;
+  box-shadow: 2px 2px 5px #dc3545; }
+  .navbar .nav-item {
+    font-size: large; }
+
+#home {
+  background: url(../IMG/IMG-20230226-WA0026~3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat; }
+  #home .overlay {
+    background-color: rgba(220, 53, 69, 0.8); }
+
+.mb-resp {
+  margin-bottom: 1rem; }
+
+.info-header {
+  width: 50%;
+  border-bottom: 1px #dc3545 solid;
+  margin: auto; }
+
+#officials img {
+  margin-top: -50px; }
+#officials .card:hover {
+  background-color: #dc3545;
+  color: #fff; }
+
+html {
+  scroll-behavior: smooth; }
